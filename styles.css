@@ -143,5 +143,9 @@ body {
 }
 
 .lista__link a:hover {
-  color: #60a7fd;
+  color: #04f541;
+}
+
+.container__botao {
+  color: #04f541;
 }
